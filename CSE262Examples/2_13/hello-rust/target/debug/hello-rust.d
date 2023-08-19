@@ -1,0 +1,1 @@
+/mnt/c/Users/MitriDell/Documents/Textbooks/Senior\ -\ Spring\ 2023/CSE\ 262/CSE262\ Code/CSE262\ Examples/2_13/hello-rust/target/debug/hello-rust: /mnt/c/Users/MitriDell/Documents/Textbooks/Senior\ -\ Spring\ 2023/CSE\ 262/CSE262\ Code/CSE262\ Examples/2_13/hello-rust/src/main.rs
