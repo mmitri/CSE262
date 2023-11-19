@@ -1,0 +1,4 @@
+test:cargo:
+  script:
+  - rustup show
+  - cargo test
